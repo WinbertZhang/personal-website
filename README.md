@@ -1,6 +1,6 @@
 # My Portfolio
 
-My personal portfolio website with an about me, experienes, and personal projects! Feel free to check out how I designed the site using Next.js and Tailwind CSS.
+My personal portfolio website with an about me, my experiences, and my personal projects! Feel free to check out how I designed the site using Next.js and Tailwind CSS.
 
 ## Table of Contents
 
