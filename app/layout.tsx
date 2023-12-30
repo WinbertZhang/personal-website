@@ -25,7 +25,6 @@ export default function RootLayout({
           <div className="flex flex-col justify-between min-h-screen">
             <main className="mb-auto">{children}</main>
           </div>
-          <Footer />{" "}
         </section>
       </body>
     </html>
