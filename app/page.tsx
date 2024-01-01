@@ -6,6 +6,17 @@ export default function Home() {
     <div className="h-screen">
       <div className="flex flex-col items-center justify-center h-3/4 bg-black text-white">
         <div className="text-center">
+          {/* <div className="flex justify-center items-center h-1/4">
+            <Image
+              src="/logo.png"
+              alt="Winbert"
+              sizes="(max-width: 640px) 100vw, 640px"
+              fill
+              style={{
+                objectFit: "contain",
+              }}
+            />
+          </div> */}
           <h1 className="text-4xl sm:text-6xl font-bold">
             Hello, I&apos;m <span className="text-blue">Winbert.</span>
           </h1>

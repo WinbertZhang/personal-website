@@ -8,13 +8,13 @@ const ExperiencePage = () => {
         Experience
       </h1>
       <h2 className="text-2xl font-bold text-center text-white mb-8">
-        Here are my professional experiences
+        Here are my professional and extracurricular experiences
       </h2>
       <div className="flex flex-wrap -mx-1 lg:-mx-4">
         {experiences.map((experience) => (
           <div
-            className="my-1 px-1 w-full md:w-1/2 lg:w-1/3 flex justify-center"
-            key={experience.jobTitle}
+            className="my-2 px-1 w-full md:w-1/2 lg:w-1/3 flex justify-center"
+            key={experience.companyName}
           >
             <div className="w-[385px] md:w-full">
               <ExperienceCard {...experience} />
