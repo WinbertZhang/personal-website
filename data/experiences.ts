@@ -1,5 +1,12 @@
 const experience = [
   {
+    jobTitle: "Incoming Software Engineer Intern",
+    companyName: "Vitu",
+    dateRange: "June 2024 – Present",
+    imageUrl: "/experience/vitu.png",
+    skills: ["TBD"],
+  },
+  {
     jobTitle: "Application Developer Intern",
     companyName: "UCSB Health and Wellness Department",
     dateRange: "June 2023 – Present",
@@ -11,7 +18,7 @@ const experience = [
     companyName: "X-Camp Academy",
     dateRange: "June 2022 – September 2022",
     imageUrl: "/experience/x-camp.png",
-    skills: ["Spring Boot", "Vue.JS", "MySQL", "Python", "Agile Scrum"],
+    skills: ["Java", "Spring Boot", "Vue.JS", "MySQL", "Python", "Agile Scrum"],
   },
   {
     jobTitle: "CS Undergraduate Learning Assistant",
@@ -40,7 +47,7 @@ const experience = [
     ],
   },
   {
-    jobTitle: "Treasurer",
+    jobTitle: "President",
     companyName: "UCSB Taiwanese American Student Association",
     dateRange: "Jan 2022 – Present",
     imageUrl: "/experience/tasa.png",
