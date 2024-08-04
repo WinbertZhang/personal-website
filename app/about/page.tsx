@@ -13,7 +13,7 @@ export default function About() {
           <p className="mt-4 text-gray-700 text-lg sm:text-xl">
             I&apos;m a full Stack Software Engineer passionate about building
             full stack software applications. Currently studying at UCSB and
-            exploring the latest in machine learning!
+            exploring the latest in AI and machine learning!
           </p>
           <p className="mt-4 text-gray-700 text-lg sm:text-xl">
             In my free time I enjoy listening to EDM, hiking, playing board
