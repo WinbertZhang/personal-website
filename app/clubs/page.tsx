@@ -1,4 +1,4 @@
-import ExperienceCard from "@/components/ExperienceCard";
+import ClubCard from "@/components/ClubCard";
 import clubs from "@/data/clubs";
 
 const ClubsPage = () => {
@@ -17,7 +17,7 @@ const ClubsPage = () => {
             key={club.clubName}
           >
             <div className="w-[385px] md:w-full">
-              <ExperienceCard {...club} />
+              <ClubCard {...club} />
             </div>
           </div>
         ))}

@@ -1,6 +1,6 @@
 const clubs = [
   {
-    jobTitle: "President",
+    position: "President",
     clubName: "UCSB Taiwanese American Student Association",
     dateRange: "Jan 2022 - Present",
     imageUrl: "/experience/tasa.png",
@@ -13,7 +13,7 @@ const clubs = [
     ],
   },
   {
-    jobTitle: "Treasurer",
+    position: "Treasurer",
     clubName: "UCSB Data Science Club",
     dateRange: "September 2022 - Present",
     imageUrl: "/experience/datascience.png",
@@ -21,7 +21,7 @@ const clubs = [
   },
 
   {
-    jobTitle: "Brotherhood and Recruitment Head",
+    position: "Brotherhood and Recruitment Head",
     clubName: "UCSB Theta Tau",
     dateRange: "June 2023 - Present",
     imageUrl: "/experience/theta_tau.png",
@@ -29,7 +29,7 @@ const clubs = [
   },
 
   {
-    jobTitle: "Executive Vice President",
+    position: "Executive Vice President",
     clubName: "TeamsCode",
     dateRange: "June 2019 - June 2021",
     imageUrl: "/experience/tc.png",
