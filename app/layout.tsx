@@ -22,7 +22,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <section className="mx-auto max-w-5xl px-4 py-8 sm:px-4 xl:max-w-7xl xl:px-0">
           <Header />
-          <div className="flex flex-col justify-between min-h-screen">
+          <div className="flex flex-col justify-between min-h-[80vh]">
             <main className="mb-auto">{children}</main>
           </div>
         </section>

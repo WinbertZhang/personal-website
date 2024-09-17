@@ -1,5 +1,12 @@
 const projects = [
   {
+    name: "Smart Split",
+    description:
+      "Smart Slit is a web application designed to help users split their bills with friends. Uploaded receipts are scanned and parsed using Generative AI to determine the items on the receipt and their prices.",
+    imageUrl: "/project/smartsplit.png",
+    link: "https://github.com/WinbertZhang/SmartSplit",
+  },
+  {
     name: "GauchoCourses",
     description:
       "Gauchocourses is a quarterly course planner that allows students to see possible schedule combinations for the classes they want to take, and save them for when their pass times come around.",
