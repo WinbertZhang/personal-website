@@ -4,7 +4,7 @@ const projects = [
     description:
       "Smart Slit is a web application designed to help users split their bills with friends. Uploaded receipts are scanned and parsed using Generative AI to determine the items on the receipt and their prices.",
     imageUrl: "/project/smartsplit.png",
-    link: "https://github.com/WinbertZhang/SmartSplit",
+    link: "https://smartsplit.vercel.app/",
   },
   {
     name: "GauchoCourses",
