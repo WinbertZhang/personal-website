@@ -10,7 +10,7 @@ export default function Home() {
             Hello, I&apos;m <span className="text-blue">Winbert.</span>
           </h1>
           <p className="text-xl sm:text-2xl mt-4">
-            I&apos;m an aspiring software engineer studying @ UCSB
+            I&apos;m a Computer Science major studying @ UCSB
           </p>
           <button className="mt-8 px-6 py-2 border rounded-md border-blue text-blue hover:bg-blue hover:text-white transition-colors duration-300">
             <Link href="/resume.pdf" target="_">

@@ -15,13 +15,13 @@ const clubs = [
   {
     position: "Treasurer",
     clubName: "UCSB Data Science Club",
-    dateRange: "September 2022 - Present",
+    dateRange: "September 2022 - Sept 2024",
     imageUrl: "/experience/datascience.png",
     skills: ["Time Management", "Finance and Budgeting", "Problem Solving"],
   },
 
   {
-    position: "Brotherhood and Recruitment Head",
+    position: "Active Member",
     clubName: "UCSB Theta Tau",
     dateRange: "June 2023 - Present",
     imageUrl: "/experience/theta_tau.png",
