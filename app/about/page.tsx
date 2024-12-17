@@ -53,7 +53,7 @@ export default function About() {
         <div className="flex-1 order-2">
           <div className="w-48 h-48 md:w-64 md:h-64 relative ml-auto m-4">
             <Image
-              src="/profile.JPG"
+              src="/profile.jpg"
               alt="Profile Image of Winbert"
               layout="fill"
               objectFit="cover"
