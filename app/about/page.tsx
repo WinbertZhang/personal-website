@@ -11,9 +11,9 @@ export default function About() {
             Hello, I&apos;m <span className="text-blue-600">Winbert</span>
           </h1>
           <p className="mt-4 text-gray-700 text-lg sm:text-xl">
-            I&apos;m a full Stack Software Engineer passionate about building
-            full stack software applications. Currently studying at UCSB and
-            exploring the latest in AI and machine learning!
+            I&apos;m a Software Engineer passionate about building
+            full stack software applications. Currently working at Amazon
+            in Seattle!
           </p>
           <p className="mt-4 text-gray-700 text-lg sm:text-xl">
             In my free time I enjoy listening to EDM, hiking, playing board

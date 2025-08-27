@@ -1,8 +1,18 @@
 const experience = [
   {
+    jobTitle: "Software Developer Engineer",
+    companyName: "Amazon",
+    dateRange: "August 2025 - Present",
+    imageUrl: "/experience/amazon.png",
+    skills: [
+      "Java",
+      "AWS",
+    ],
+  },
+  {
     jobTitle: "Software Engineer Intern",
     companyName: "Vitu",
-    dateRange: "June 2024 - Present",
+    dateRange: "June 2024 - Dec 2024",
     imageUrl: "/experience/vitu.png",
     skills: [
       "Machine Learning",

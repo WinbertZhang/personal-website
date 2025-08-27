@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Winbert Zhang Portfolio",
-  description: "Winbert Zhang is a software engineer based in Cupertino, CA.",
+  description: "Winbert Zhang is a software engineer based in Seattle, WA.",
 };
 
 export default function RootLayout({
